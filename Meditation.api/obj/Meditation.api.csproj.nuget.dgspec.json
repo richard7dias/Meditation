@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation/Meditation.api.csproj": {}
+    "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.api/Meditation.api.csproj": {}
   },
   "projects": {
-    "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation/Meditation.api.csproj": {
+    "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.api/Meditation.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation/Meditation.api.csproj",
+        "projectUniqueName": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.api/Meditation.api.csproj",
         "projectName": "Meditation.api",
-        "projectPath": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation/Meditation.api.csproj",
+        "projectPath": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.api/Meditation.api.csproj",
         "packagesPath": "/Users/richardoliveira/.nuget/packages/",
-        "outputPath": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation/obj/",
+        "outputPath": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/richardoliveira/.nuget/NuGet/NuGet.Config"
@@ -21,6 +21,7 @@
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +43,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -67,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

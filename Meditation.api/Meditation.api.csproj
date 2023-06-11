@@ -11,6 +11,25 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.19.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Meditations.infra\" />
+    <None Remove="Meditation.api\" />
+    <None Remove="Meditation.api\Controllers\" />
+    <None Remove="Meditation.api\Models\" />
+    <None Remove="Meditation.api\Routes\" />
+    <None Remove="Meditations.infra\Repositories\" />
+    <None Remove="Meditations.infra\Configurations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Meditations.infra\" />
+    <Folder Include="Meditation.api\" />
+    <Folder Include="Meditation.api\Controllers\" />
+    <Folder Include="Meditation.api\Models\" />
+    <Folder Include="Meditation.api\Routes\" />
+    <Folder Include="Meditations.infra\Repositories\" />
+    <Folder Include="Meditations.infra\Configurations\" />
+  </ItemGroup>
 </Project>
