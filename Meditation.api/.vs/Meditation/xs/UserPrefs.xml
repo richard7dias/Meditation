@@ -1,23 +1,26 @@
-﻿<Properties StartupConfiguration="{52744AB6-E62B-4286-8C7D-827C01173EE8}|https">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{CF98034F-FB8D-47D4-B721-0F7CE14A172C}|https">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Meditation" expanded="True">
-            <Node name="Meditation.api" expanded="True" />
-            <Node name="Meditation.infra" expanded="True">
-              <Node name="Repositories" expanded="True" />
+            <Node name="Meditation.api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MeditationsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Meditation.api PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Meditation.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

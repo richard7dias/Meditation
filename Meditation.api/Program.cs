@@ -1,19 +1,14 @@
-﻿using Meditation.api.Meditation.infra.Repositories;
-using Meditation.api.Meditations.infra.Configurations;
-using Meditation.infra.Repositories;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Options;
+﻿using Meditation.api.Models;
+using Meditation.api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.Configure<DatabaseConfig>(builder.Configuration.GetSection(nameof(DatabaseConfig)));
-builder.Services.AddSingleton<IDatabaseConfig>(sp => sp.GetRequiredService<IOptions<DatabaseConfig>>().Value);
+builder.Services.Configure<MeditationsDatabaseSettings>(builder.Configuration.GetSection("MeditationsDatabase"));
+builder.Services.AddSingleton<MeditationsService>();
 
-builder.Services.AddSingleton<IMeditationRepository, MeditationRepository>();
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -33,4 +28,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/08+drN3Gou+Ig2MNtZEMFyR+beiMN9eHCaGGv9y7iay4+U7oxCuRcMMv/Kb/5MEauCyU40GEJlLf8+JuZzxTw==",
+  "dgSpecHash": "1ut1EVHnb1Nf4YDrullJaiEvjO/wrscgN4nVhe3HgldnRYAVRLTIGhjaQHvTBNVu0Fpm0QAN4rp5EJS16+cLvA==",
   "success": true,
   "projectFilePath": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.api/Meditation.api.csproj",
   "expectedPackageFiles": [
     "/Users/richardoliveira/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/richardoliveira/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/Users/richardoliveira/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
-    "/Users/richardoliveira/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "/Users/richardoliveira/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/richardoliveira/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/richardoliveira/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "/Users/richardoliveira/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
