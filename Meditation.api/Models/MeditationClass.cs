@@ -10,20 +10,20 @@ namespace Meditation.api.Models
         [BsonRepresentation(BsonType.ObjectId)]
         public string? _id { get; set; }
 
-        public int pageNumber { get; private set; }
+        public int pageNumber { get; set; }
 
-        public string text { get; private set; } = null!;
+        public string text { get; set; } = null!;
 
-        public string dateDisplay { get; private set; } = null!;
+        public string dateDisplay { get; set; } = null!;
 
-        public string dateTemp { get; private set; } = null!;
+        public string dateTemp { get; set; } = null!;
 
-        public string date { get; private set; } = null!;
+        public string date { get; set; } = null!;
 
-        public string title { get; private set; } = null!;
+        public string title { get; set; } = null!;
 
-        public string verseText { get; private set; } = null!;
+        public string verseText { get; set; } = null!;
 
-        public string verseRef { get; private set; } = null!;
+        public string verseRef { get; set; } = null!;
     }
 }
