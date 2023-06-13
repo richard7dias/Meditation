@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeditationPt", "MeditationPt.csproj", "{CF98034F-FB8D-47D4-B721-0F7CE14A172C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeditationEs", "..\MeditationEs\MeditationEs.csproj", "{4C3AD929-D7FC-42B1-AB84-27D4B3F24E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF98034F-FB8D-47D4-B721-0F7CE14A172C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF98034F-FB8D-47D4-B721-0F7CE14A172C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF98034F-FB8D-47D4-B721-0F7CE14A172C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF98034F-FB8D-47D4-B721-0F7CE14A172C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3AD929-D7FC-42B1-AB84-27D4B3F24E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3AD929-D7FC-42B1-AB84-27D4B3F24E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3AD929-D7FC-42B1-AB84-27D4B3F24E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3AD929-D7FC-42B1-AB84-27D4B3F24E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CD6466A-24A2-4379-B54A-1A3299F1AEE0}
+	EndGlobalSection
+EndGlobal

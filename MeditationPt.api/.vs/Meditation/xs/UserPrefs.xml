@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CF98034F-FB8D-47D4-B721-0F7CE14A172C}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>../MeditationsEs/MeditationsEs.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.MeditationEs FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MeditationPt PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Meditation" expanded="True">
+            <Node name="MeditationPt" expanded="True" />
+            <Node name="MeditationsEs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
