@@ -1,4 +1,3 @@
-using MeditationEs.Domain;
 using MeditationEs.Infra;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +5,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.Configure<MeditationsDatabaseSettings>(builder.Configuration.GetSection("MeditationsDatabase"));
 builder.Services.AddSingleton<MeditationsService>();
-
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
