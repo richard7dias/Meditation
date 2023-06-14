@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "c:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\MeditationEs.csproj",
+  "SerializedFilePath": "c:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\MeditationPt.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "MeditationEs",
+  "RootNamespace": "MeditationPt",
   "Documents": [],
   "SerializationFormat": "0.3"
 }

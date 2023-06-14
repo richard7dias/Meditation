@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\MeditationEs.csproj": {}
+    "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\MeditationPt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\MeditationEs.csproj": {
+    "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\MeditationPt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\MeditationEs.csproj",
-        "projectName": "MeditationEs",
-        "projectPath": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\MeditationEs.csproj",
+        "projectUniqueName": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\MeditationPt.csproj",
+        "projectName": "MeditationPt",
+        "projectPath": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\MeditationPt.csproj",
         "packagesPath": "C:\\Users\\richard.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\obj\\",
+        "outputPath": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ij49kHT+x9m5zZ7P991XMz9JDj8R8s6ZkfWT9wwCm1+KNY410kn1vqQTGMz5FrTH4Xxj/1133PU5abeMiLej9g==",
+  "dgSpecHash": "K/YysJzZMKgZFaVHz5+VtP+xPT/cJRSut7hLNoq6Lb4mzA2kuIGGhedMIB6aLxsWSeo1iBLMCUXu98i22Ng53g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationEs\\MeditationEs.csproj",
+  "projectFilePath": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\MeditationPt\\MeditationPt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richard.dias\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\richard.dias\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
