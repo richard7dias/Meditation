@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "tK2CC6GU4VYCyMk814H/A5lKUfaUBH63yIqotHhBNRg=",
+  "Source": "Meditation.Api",
+  "BasePath": "_content/Meditation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Domain/Meditation.Domain.csproj",
+      "Version": 2,
+      "Source": "Meditation.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    },
+    {
+      "Identity": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Infra/Meditation.Infra.csproj",
+      "Version": 2,
+      "Source": "Meditation.Infra",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
