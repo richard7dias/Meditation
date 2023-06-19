@@ -38,3 +38,43 @@
 /Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Domain/obj/Debug/net7.0/Meditation.Domain.pdb
 /Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Domain/obj/Debug/net7.0/Meditation.Domain.genruntimeconfig.cache
 /Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Domain/obj/Debug/net7.0/ref/Meditation.Domain.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\appsettings.json
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\Meditation.Domain.exe
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\Meditation.Domain.deps.json
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\Meditation.Domain.runtimeconfig.json
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\Meditation.Domain.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\Meditation.Domain.pdb
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\DnsClient.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\Snappier.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.csproj.AssemblyReference.cache
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.AssemblyInfoInputs.cache
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.AssemblyInfo.cs
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\staticwebassets\msbuild.Meditation.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\staticwebassets\msbuild.build.Meditation.Domain.props
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Meditation.Domain.props
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Meditation.Domain.props
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\scopedcss\bundle\Meditation.Domain.styles.css
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.csproj.CopyComplete
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\refint\Meditation.Domain.dll
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.pdb
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\Meditation.Domain.genruntimeconfig.cache
+C:\Users\richard.dias\OneDrive - Adventistas\Documentos\IATec\Meditações\Meditation\Meditation.Domain\obj\Debug\net7.0\ref\Meditation.Domain.dll

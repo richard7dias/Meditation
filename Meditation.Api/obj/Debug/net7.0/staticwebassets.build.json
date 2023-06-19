@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "tK2CC6GU4VYCyMk814H/A5lKUfaUBH63yIqotHhBNRg=",
+  "Hash": "gX3gM7rsPb3NjCutur6iHGahp+Gkvycc4/m5rctjcqw=",
   "Source": "Meditation.Api",
   "BasePath": "_content/Meditation.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Domain/Meditation.Domain.csproj",
+      "Identity": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\Meditation.Domain\\Meditation.Domain.csproj",
       "Version": 2,
       "Source": "Meditation.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "TargetFramework"
     },
     {
-      "Identity": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Infra/Meditation.Infra.csproj",
+      "Identity": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\Meditation.Infra\\Meditation.Infra.csproj",
       "Version": 2,
       "Source": "Meditation.Infra",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

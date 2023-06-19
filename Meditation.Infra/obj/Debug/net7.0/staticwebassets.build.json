@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "r5treE3nVIEtvpSRrgaximsKoPtaPhTzNsb62nEBO1I=",
+  "Hash": "qkItULIoS8pO+hZdWrEPlxbbirKPg7889F8ToyYBHqk=",
   "Source": "Meditation.Infra",
   "BasePath": "_content/Meditation.Infra",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "/Users/richardoliveira/Documents/IATec/Projetos/Meditation/Meditation.Domain/Meditation.Domain.csproj",
+      "Identity": "C:\\Users\\richard.dias\\OneDrive - Adventistas\\Documentos\\IATec\\Meditações\\Meditation\\Meditation.Domain\\Meditation.Domain.csproj",
       "Version": 2,
       "Source": "Meditation.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
